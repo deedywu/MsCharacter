@@ -1,0 +1,7 @@
+2020-11-16  v0.0.1: 精简的不需要任何依赖
+2020-11-17  v0.0.2: 修复版
+2020-11-18  v0.0.3: 添加monogame原生支持音频播放,Demo在WzSoundProperty-Wav , 需要NAudio依赖
+2020-11-22  v0.0.4: 图片case 517 已解决 
+
+*一个需要自己解决的问题 WzPngProperty里 ToTexture2D方法中 new Texture2D中第一个参数需要自己适配 
+Microsoft.Xna.Framework.GraphicsDeviceManager.GraphicsDevice 

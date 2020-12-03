@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "ALBNkT9xqygYTFRHr+DAnkQtF5WHRxqR10+AM8p+ul9g/Z1E1HiwzUJ1kQD24HA5S5oThH4/uVuhn3WUMt99JQ==",
+  "success": true,
+  "projectFilePath": "F:\\workspace\\study\\cSharp\\Character\\Character\\Character.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\deedy\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "C:\\Users\\deedy\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
+    "C:\\Users\\deedy\\.nuget\\packages\\monogame.framework.desktopgl\\3.8.0.1641\\monogame.framework.desktopgl.3.8.0.1641.nupkg.sha512",
+    "C:\\Users\\deedy\\.nuget\\packages\\naudio\\1.10.0\\naudio.1.10.0.nupkg.sha512",
+    "C:\\Users\\deedy\\.nuget\\packages\\system.resources.extensions\\4.7.0\\system.resources.extensions.4.7.0.nupkg.sha512",
+    "C:\\Users\\deedy\\.nuget\\packages\\system.security.accesscontrol\\4.7.0\\system.security.accesscontrol.4.7.0.nupkg.sha512",
+    "C:\\Users\\deedy\\.nuget\\packages\\system.security.principal.windows\\4.7.0\\system.security.principal.windows.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
